@@ -1,3 +1,4 @@
+com\PortfolioBack\APBack\Controllers\UsuariosDatosPController.class
 com\PortfolioBack\APBack\Services\AuthServiceImplement.class
 com\PortfolioBack\APBack\Controllers\FormacionController.class
 com\PortfolioBack\APBack\Services\AuthService.class
