@@ -35,6 +35,12 @@ public class TareaController {
     public List<Tarea> listar() {
         return tareaService.findAll();
     }
+    
+        //hola
+    @GetMapping("/hola")
+    public String hola() {
+        return "Hola";
+    }
 
     //guardar
     @PostMapping("/tareas")
