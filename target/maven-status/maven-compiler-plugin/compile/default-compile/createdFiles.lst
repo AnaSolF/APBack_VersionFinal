@@ -22,5 +22,6 @@ com\PortfolioBack\APBack\DAO\UsuariosDatosPDAO.class
 com\PortfolioBack\APBack\Models\Tarea.class
 com\PortfolioBack\APBack\Models\UsuarioDatosP.class
 com\PortfolioBack\APBack\DAO\TareaDAO.class
+com\PortfolioBack\APBack\Controllers\CorsConfig.class
 com\PortfolioBack\APBack\Controllers\AuthController.class
 com\PortfolioBack\APBack\Services\FormacionServiceImplement.class
